@@ -8,7 +8,9 @@ app = FastAPI(title="Examate RAG starter", version="0.1.0")
 
 SettingsDep = Annotated[Settings, Depends(get_settings)]
 
-
+@app.get("/")
+def greet():
+    return "Hello, World!"
 @app.get("/health")
 def health(settings: SettingsDep) -> dict:
     """Liveness: the process is up. Must be fast and must not call the LLM or the DB."""

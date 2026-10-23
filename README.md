@@ -1,4 +1,4 @@
-# <Your product name>
+# <Peerlens>
 
 > Fill this top section from your Examate project card on Day 1. Replace every line in angle brackets.
 
