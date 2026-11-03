@@ -1,0 +1,6 @@
+file,source_url,downloaded_on,bytes,sha256
+data/raw\infy-20260331.htm,https://www.sec.gov/Archives/edgar/data/1067491/000119312526270520/infy-20260331.htm,2026-10-26,13061960,caad37c5a40acdb8
+data/raw\infy-20250331.htm,https://www.sec.gov/Archives/edgar/data/1067491/000095017025091925/infy-20250331.htm,2026-10-26,13222413,d2d94e62fef37d72
+data/raw\infy-20240331.htm,https://www.sec.gov/Archives/edgar/data/1067491/000095017024076649/infy-20240331.htm,2026-10-26,10455489,730a2a987880f609
+data/raw\infy-20230331.htm,https://www.sec.gov/Archives/edgar/data/1067491/000095017023028187/infy-20230331.htm,2026-10-26,17454631,b29faf7e3f0af99c
+data/raw\infy-20f_20220331.htm,https://www.sec.gov/Archives/edgar/data/1067491/000156459022023521/infy-20f_20220331.htm,2026-10-26,16503415,e5c6db10d5c938bc
